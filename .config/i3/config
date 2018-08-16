@@ -153,5 +153,6 @@ smart_borders on
 smart_gaps on
 
 # autostart
+exec_always --no-startup-id dropbox
 exec_always --no-startup-id feh --randomize --bg-fill ~/Images/Wallpapers/*
 
